@@ -4,7 +4,7 @@ public class BuracoMorte : MonoBehaviour
 {
     public float velocidadeQueda = -1.5f;
     public float gravidadeDuranteQueda = 0.2f;
-
+//opa
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("player"))

@@ -3,6 +3,7 @@ using UnityEngine;
 [RequireComponent(typeof(Camera))]
 public class CameraAspectFitter : MonoBehaviour
 {
+    //testamdo
     public float aspectoReferencia = 16f / 9f;
     public float tamanhoOrtograficoReferencia = 8f;
     public bool manterLarguraDoPC = true;

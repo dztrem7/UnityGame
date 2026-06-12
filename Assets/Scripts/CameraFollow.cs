@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class CameraFollow : MonoBehaviour
 {
+    //camera
     public Transform player;
     public Vector3 offset = new Vector3(0f, 0.96f, -10f);
     public Vector3 ajusteMobile = new Vector3(3.6f, 0f, 0f);
