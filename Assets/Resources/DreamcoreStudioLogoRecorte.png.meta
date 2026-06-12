@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: 4074da8b8033322458fbc0db0502e3fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7965725441865210362
+    second: DreamcoreStudioLogoRecorte_0
+  - first:
+      213: 2548631108782409948
+    second: DreamcoreStudioLogoRecorte_1
+  - first:
+      213: 2691982150015320687
+    second: DreamcoreStudioLogoRecorte_2
+  - first:
+      213: 8450492129533528529
+    second: DreamcoreStudioLogoRecorte_3
+  - first:
+      213: -4301753631072671277
+    second: DreamcoreStudioLogoRecorte_4
+  - first:
+      213: 6811843468172503264
+    second: DreamcoreStudioLogoRecorte_5
+  - first:
+      213: -2614253223113206128
+    second: DreamcoreStudioLogoRecorte_6
+  - first:
+      213: 5679229481808646836
+    second: DreamcoreStudioLogoRecorte_7
+  - first:
+      213: -8859953345270829236
+    second: DreamcoreStudioLogoRecorte_8
+  - first:
+      213: -3758297997843915807
+    second: DreamcoreStudioLogoRecorte_9
+  - first:
+      213: 2898388983525212318
+    second: DreamcoreStudioLogoRecorte_10
+  - first:
+      213: -2687081075477743196
+    second: DreamcoreStudioLogoRecorte_11
+  - first:
+      213: -4310113330669660341
+    second: DreamcoreStudioLogoRecorte_12
+  - first:
+      213: 1303268233686175333
+    second: DreamcoreStudioLogoRecorte_13
+  - first:
+      213: 8876879390498188776
+    second: DreamcoreStudioLogoRecorte_14
+  - first:
+      213: -2507768395872630614
+    second: DreamcoreStudioLogoRecorte_15
+  - first:
+      213: -8439276380705455614
+    second: DreamcoreStudioLogoRecorte_16
+  - first:
+      213: 8535780509200145256
+    second: DreamcoreStudioLogoRecorte_17
+  - first:
+      213: 2659089474435838841
+    second: DreamcoreStudioLogoRecorte_18
+  - first:
+      213: -7954825556465505084
+    second: DreamcoreStudioLogoRecorte_19
+  - first:
+      213: -6532913473829905120
+    second: DreamcoreStudioLogoRecorte_20
+  - first:
+      213: 421525601872476808
+    second: DreamcoreStudioLogoRecorte_21
+  - first:
+      213: 798651291885097267
+    second: DreamcoreStudioLogoRecorte_22
+  - first:
+      213: 5871691689198662197
+    second: DreamcoreStudioLogoRecorte_23
+  - first:
+      213: -758867122705856033
+    second: DreamcoreStudioLogoRecorte_24
+  - first:
+      213: 4386696085217191858
+    second: DreamcoreStudioLogoRecorte_25
+  - first:
+      213: 1326928372252949481
+    second: DreamcoreStudioLogoRecorte_26
+  - first:
+      213: 8283383678162771481
+    second: DreamcoreStudioLogoRecorte_27
+  - first:
+      213: -477039662321594289
+    second: DreamcoreStudioLogoRecorte_28
+  - first:
+      213: -4256093902892160376
+    second: DreamcoreStudioLogoRecorte_29
+  - first:
+      213: 5113475987156117227
+    second: DreamcoreStudioLogoRecorte_30
+  - first:
+      213: 8768386995252555764
+    second: DreamcoreStudioLogoRecorte_31
+  - first:
+      213: -3069782775251182172
+    second: DreamcoreStudioLogoRecorte_32
+  - first:
+      213: -4129058095337700656
+    second: DreamcoreStudioLogoRecorte_33
+  - first:
+      213: -7291097190885322794
+    second: DreamcoreStudioLogoRecorte_34
+  - first:
+      213: -944471726642741273
+    second: DreamcoreStudioLogoRecorte_35
+  - first:
+      213: -6607561683613238118
+    second: DreamcoreStudioLogoRecorte_36
+  - first:
+      213: 4585930778513865964
+    second: DreamcoreStudioLogoRecorte_37
+  - first:
+      213: -3883827441468275797
+    second: DreamcoreStudioLogoRecorte_38
+  - first:
+      213: 6725120520732996181
+    second: DreamcoreStudioLogoRecorte_39
+  - first:
+      213: 3355991986975869729
+    second: DreamcoreStudioLogoRecorte_40
+  - first:
+      213: -9064553549975219942
+    second: DreamcoreStudioLogoRecorte_41
+  - first:
+      213: 1350755495951653785
+    second: DreamcoreStudioLogoRecorte_42
+  - first:
+      213: 1170764174797311503
+    second: DreamcoreStudioLogoRecorte_43
+  - first:
+      213: 9014275564430882397
+    second: DreamcoreStudioLogoRecorte_44
+  - first:
+      213: 7978284018109081626
+    second: DreamcoreStudioLogoRecorte_45
+  - first:
+      213: 8237147648318755063
+    second: DreamcoreStudioLogoRecorte_46
+  - first:
+      213: -6705080779366403034
+    second: DreamcoreStudioLogoRecorte_47
+  - first:
+      213: 1177336763153548931
+    second: DreamcoreStudioLogoRecorte_48
+  - first:
+      213: 5259253000837332278
+    second: DreamcoreStudioLogoRecorte_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_0
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 980
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9daacc511fb8e60800000000000000
+      internalID: 7965725441865210362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_1
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 957
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd84c7e7d7e8e5320800000000000000
+      internalID: 2548631108782409948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_2
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 918
+        width: 118
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f620b51b087db5520800000000000000
+      internalID: 2691982150015320687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_3
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 865
+        width: 52
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d98416b1dd264570800000000000000
+      internalID: 8450492129533528529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_4
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 941
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9aaac3dd91d44c0800000000000000
+      internalID: -4301753631072671277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_5
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 835
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8acf92b87888e50800000000000000
+      internalID: 6811843468172503264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_6
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 910
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096da636b8e48bbd0800000000000000
+      internalID: -2614253223113206128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_7
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 861
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b25125bf1da0de40800000000000000
+      internalID: 5679229481808646836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_8
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 797
+        width: 65
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f2990ef5f1b0580800000000000000
+      internalID: -8859953345270829236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_9
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 846
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb937e12e7d7dbc0800000000000000
+      internalID: -3758297997843915807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_10
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 825
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e900de79c65293820800000000000000
+      internalID: 2898388983525212318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_11
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 827
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a97975aff195bad0800000000000000
+      internalID: -2687081075477743196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_12
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 586
+        width: 200
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4752cff2c66f24c0800000000000000
+      internalID: -4310113330669660341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_13
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 812
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e4ae3bd83261210800000000000000
+      internalID: 1303268233686175333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_14
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 827
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed61a026c2013b70800000000000000
+      internalID: 8876879390498188776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_15
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 691
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa88f014eed923dd0800000000000000
+      internalID: -2507768395872630614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_16
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 796
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20205be48daa1ea80800000000000000
+      internalID: -8439276380705455614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_17
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 747
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bd39b062f257670800000000000000
+      internalID: 8535780509200145256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_18
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 742
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9737abdd9cbf6e420800000000000000
+      internalID: 2659089474435838841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_19
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 654
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccaca88d48ca9190800000000000000
+      internalID: -7954825556465505084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_20
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 636
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d5104fecd6655a0800000000000000
+      internalID: -6532913473829905120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_21
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 632
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a77533d4f89d500800000000000000
+      internalID: 421525601872476808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_22
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 613
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331d7385e11651b00800000000000000
+      internalID: 798651291885097267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_23
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 570
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532bc455b707c7150800000000000000
+      internalID: 5871691689198662197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_24
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 573
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9056f5f56f775f0800000000000000
+      internalID: -758867122705856033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_25
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 574
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7a7f809dca0ec30800000000000000
+      internalID: 4386696085217191858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_26
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 562
+        width: 149
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb368ef2523a6210800000000000000
+      internalID: 1326928372252949481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_27
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 574
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e192b619d74f270800000000000000
+      internalID: 8283383678162771481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_28
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 570
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f409c8f54f63169f0800000000000000
+      internalID: -477039662321594289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_29
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 562
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a286325215fe4c0800000000000000
+      internalID: -4256093902892160376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_30
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 562
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be62ee56157b6f640800000000000000
+      internalID: 5113475987156117227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_31
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 538
+        width: 219
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffee29e3819fa970800000000000000
+      internalID: 8768386995252555764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_32
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 302
+        width: 123
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad5a8f84d0f565d0800000000000000
+      internalID: -3069782775251182172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_33
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 338
+        width: 119
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2027af983a2b6c0800000000000000
+      internalID: -4129058095337700656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_34
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 374
+        width: 62
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df8e6a1cb1d0da90800000000000000
+      internalID: -7291097190885322794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_35
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 354
+        width: 102
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef3f09f7ff84e2f0800000000000000
+      internalID: -944471726642741273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_36
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 360
+        width: 119
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c30c838a93d44a0800000000000000
+      internalID: -6607561683613238118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_37
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 358
+        width: 82
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec79d9eebf74af30800000000000000
+      internalID: 4585930778513865964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 355
+        width: 86
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba38e56f48fd91ac0800000000000000
+      internalID: -3883827441468275797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 323
+        width: 94
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552fafd7b7d645d50800000000000000
+      internalID: 6725120520732996181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_40
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 323
+        width: 93
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b01cc6ee0e29e20800000000000000
+      internalID: 3355991986975869729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_41
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 277
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a119836829c343280800000000000000
+      internalID: -9064553549975219942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_42
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 282
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bda9a87f8deb210800000000000000
+      internalID: 1350755495951653785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_43
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 285
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e0c8260d36f3010800000000000000
+      internalID: 1170764174797311503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_44
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 282
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56f26dbdd3291d70800000000000000
+      internalID: 9014275564430882397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_45
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 316
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1861903b0f88be60800000000000000
+      internalID: 7978284018109081626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_46
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 283
+        width: 60
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0db74d42a305270800000000000000
+      internalID: 8237147648318755063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_47
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 282
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624f0936e84c2f2a0800000000000000
+      internalID: -6705080779366403034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_48
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 282
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38686cc5c8db65010800000000000000
+      internalID: 1177336763153548931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreamcoreStudioLogoRecorte_49
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 283
+        width: 59
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63df0d25dbe9cf840800000000000000
+      internalID: 5259253000837332278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DreamcoreStudioLogoRecorte_0: 7965725441865210362
+      DreamcoreStudioLogoRecorte_1: 2548631108782409948
+      DreamcoreStudioLogoRecorte_10: 2898388983525212318
+      DreamcoreStudioLogoRecorte_11: -2687081075477743196
+      DreamcoreStudioLogoRecorte_12: -4310113330669660341
+      DreamcoreStudioLogoRecorte_13: 1303268233686175333
+      DreamcoreStudioLogoRecorte_14: 8876879390498188776
+      DreamcoreStudioLogoRecorte_15: -2507768395872630614
+      DreamcoreStudioLogoRecorte_16: -8439276380705455614
+      DreamcoreStudioLogoRecorte_17: 8535780509200145256
+      DreamcoreStudioLogoRecorte_18: 2659089474435838841
+      DreamcoreStudioLogoRecorte_19: -7954825556465505084
+      DreamcoreStudioLogoRecorte_2: 2691982150015320687
+      DreamcoreStudioLogoRecorte_20: -6532913473829905120
+      DreamcoreStudioLogoRecorte_21: 421525601872476808
+      DreamcoreStudioLogoRecorte_22: 798651291885097267
+      DreamcoreStudioLogoRecorte_23: 5871691689198662197
+      DreamcoreStudioLogoRecorte_24: -758867122705856033
+      DreamcoreStudioLogoRecorte_25: 4386696085217191858
+      DreamcoreStudioLogoRecorte_26: 1326928372252949481
+      DreamcoreStudioLogoRecorte_27: 8283383678162771481
+      DreamcoreStudioLogoRecorte_28: -477039662321594289
+      DreamcoreStudioLogoRecorte_29: -4256093902892160376
+      DreamcoreStudioLogoRecorte_3: 8450492129533528529
+      DreamcoreStudioLogoRecorte_30: 5113475987156117227
+      DreamcoreStudioLogoRecorte_31: 8768386995252555764
+      DreamcoreStudioLogoRecorte_32: -3069782775251182172
+      DreamcoreStudioLogoRecorte_33: -4129058095337700656
+      DreamcoreStudioLogoRecorte_34: -7291097190885322794
+      DreamcoreStudioLogoRecorte_35: -944471726642741273
+      DreamcoreStudioLogoRecorte_36: -6607561683613238118
+      DreamcoreStudioLogoRecorte_37: 4585930778513865964
+      DreamcoreStudioLogoRecorte_38: -3883827441468275797
+      DreamcoreStudioLogoRecorte_39: 6725120520732996181
+      DreamcoreStudioLogoRecorte_4: -4301753631072671277
+      DreamcoreStudioLogoRecorte_40: 3355991986975869729
+      DreamcoreStudioLogoRecorte_41: -9064553549975219942
+      DreamcoreStudioLogoRecorte_42: 1350755495951653785
+      DreamcoreStudioLogoRecorte_43: 1170764174797311503
+      DreamcoreStudioLogoRecorte_44: 9014275564430882397
+      DreamcoreStudioLogoRecorte_45: 7978284018109081626
+      DreamcoreStudioLogoRecorte_46: 8237147648318755063
+      DreamcoreStudioLogoRecorte_47: -6705080779366403034
+      DreamcoreStudioLogoRecorte_48: 1177336763153548931
+      DreamcoreStudioLogoRecorte_49: 5259253000837332278
+      DreamcoreStudioLogoRecorte_5: 6811843468172503264
+      DreamcoreStudioLogoRecorte_6: -2614253223113206128
+      DreamcoreStudioLogoRecorte_7: 5679229481808646836
+      DreamcoreStudioLogoRecorte_8: -8859953345270829236
+      DreamcoreStudioLogoRecorte_9: -3758297997843915807
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
