@@ -21,5 +21,6 @@ public class AtivarSomCorvo : MonoBehaviour
             if (corvo != null)
                 corvo.Voar();
         }
+        //teste
     }
 }
